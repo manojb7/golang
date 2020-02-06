@@ -1,0 +1,8 @@
+1/in github.com create a repository.
+2/in the laptop create the directory with the same name as of repo
+3/do "echo "#HELP" >> README.md" "
+4/do "git init"
+5/do "git add --all" "
+6/ do "git commit -m "Initial commit" "
+7/ do "git remote add origin git@github.com:manojb7/golang.git"
+8/do "git push"
